@@ -87,8 +87,7 @@ Result: USB and external drives are disabled for all users in the **Accounts OU*
 
 ## Screenshots
 
-- ![AD Domain Structure](Sceenshots/Accessdenied.png)
-
+- [AD Domain Structure](Sceenshots/Access_denied.png)
 - GPO Editor Screenshot
 - PC joined to domain
 - Result of denied USB access
